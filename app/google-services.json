@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "2013277944",
+    "firebase_url": "https://citygym-2c2ac.firebaseio.com",
+    "project_id": "citygym-2c2ac",
+    "storage_bucket": "citygym-2c2ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2013277944:android:d876090ba216b84b",
+        "android_client_info": {
+          "package_name": "com.example.rustong_pu.citygym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2013277944-cnpi5s0oo5fv10bnq5a0cqev043tulmr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rustong_pu.citygym",
+            "certificate_hash": "5C66AE2DB715587E54B7D605BB9D7CF65D0101DD"
+          }
+        },
+        {
+          "client_id": "2013277944-l4doshp50eck2o7sftcbp2j7g1s0kim3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDycTvFmcGwMPDzlZgfXY7MWHa1b-DtUXI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2013277944-l4doshp50eck2o7sftcbp2j7g1s0kim3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

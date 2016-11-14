@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CityGym</string>
+    <string name="main_input_text">Das ist in der Firebase Datenbank:</string>
+    <string name="main_edittext_hint">Speichere etwas in die DB</string>
+    <string name="main_button">S A V E</string>
+    <string name="main_output_text">...</string>
+</resources>
