@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
     FirebaseDatabase database = FirebaseDatabase.getInstance();
     DatabaseReference myRef = database.getReference("Message");
-    //there needs to be a child "Message" with some value in the Firebase DB
+    //Fabian: there needs to be a child "Message" with some value in the Firebase DB
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

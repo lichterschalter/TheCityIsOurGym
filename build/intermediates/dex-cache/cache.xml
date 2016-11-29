@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_e1e933542853c89ea77723bd483b0b679f70f927\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_9b7c44d207cd8b05b642de51427e2a2b2dd2f540\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_4a2ce52b6ecd048bde421d74b74b4de6ca707cbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_3980b8a04a05afdedade73f543f2330656730da1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_b84c5f4d6df5304b8b02e0e916b10d8b48b31bc5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.8.0_aeba495c935778ce944fca365f8f88213558404f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_08273a22c6df0d1f877aa8104204021a9b28b1d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.8.0_0f07ea79b20c5cb3b605f6fc6a524ac1c4fe29b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_4a0fe890764ccb1c3c176ba65a8c85a2e302ade3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_6a6645f6ac785f9b7976f2e6fc8075d5cfdb5514\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_e501274e603fca18943ead6944be240445c9b121\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_e2f0f1e3541f403ff96beea7365c4ede9eb50bfe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_0853583c1a6325e4ce02fe2d7fbfecb0f7c16e39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_898253905dc7819eb26aff9ba1471e8e46a2f819\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rubishman\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_9871ce04933d839d01829f80f6813c5d31ca4e2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_7a913f7cb1102790c3daf1c4f9cbf8e074c05bf0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2e4ffd957e77c4301a8c7cbe299a11938f547bc">
+        <dex dex="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8c1d7129f091ecc347ac42d69749c1d6aaabd7de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_aaa6f9b404709e7a724d07c3836ee21fdbaa23dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_9f786a74c4306705ade137e12bef0429b74ef19b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_1016bce78fa470d95568b6eb95ef52fac71400a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_676c2e2890832e54ee9c981088b1d98a2cbde6af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9227517ba5331dfdb41ce998e0831af060b69edb">
+        <dex dex="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_515ddcbd364acc89579ba2de48903e974102fc9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_467b6f1e9d79c237621ffc793066b16a967a5119\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_84715ef6b03fc4da7c661458911220bfa6c8c131\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\Rubishman\AndroidStudioProjects\TheCityIsOurGym\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_38853cf71dfa131e3722e2488ec688a3370cd077\classes.dex" />
+    </item>
+
+</items>
